@@ -1,0 +1,7 @@
+db.estados.find({sigla: "SP"}, {_id: 1}).pretty() 
+
+// Colocar o ObjectId no campo EstadoId
+db.empresas.insert({ nome: "Bradesco", estadoId: ObjectId("5e97a4371f66175fc5a35882") })
+
+// Colocar o id do ObjectId de Guarulhos em CidadeId
+db.empresas.insert({ nome: "Vale", cidadeId: ObjectId("5e97a4371f66175fc5a35880") })
