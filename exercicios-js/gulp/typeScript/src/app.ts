@@ -8,9 +8,3 @@ const c = new Carro
 c.nome = 'Civic'
 c.preco = 89499.00
 exibir(c)
-
-function somar(a: number, b: number){
-    return a + b
-}
-
-console.log('Soma: ', somar(2,3))
