@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta - bico redondo",
+      "price": "7.72"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro Plus",
+      "price": "16456.47"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Ultra",
+      "price": "7520.89"
+    },
+    {
+      "name": "Lapis Preto Básico",
+      "price": "1.50",
+      "id": 4
+    }
+  ]
+}
